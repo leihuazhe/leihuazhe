@@ -7,4 +7,4 @@
 - 📫 You can reach me in [Gmail](leihuazhe@gmail.com)
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/wfnuser/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/leihuazhe/count.svg)
