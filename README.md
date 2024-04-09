@@ -23,4 +23,6 @@ Feel free to connect with me:
 
 ---
 
-<img align="left" src="https://github-rm-stats-git-main-leihuazhe.vercel.app/api?username=leihuazhe&show_icons=true&include_all_commits=true&hide_border=true&theme=gruvbox" />
+[//]: # (https://github-rm-stats-git-main-leihuazhe.vercel.app/api?username=leihuazhe&show_icons=true&include_all_commits=true&hide_border=true&theme=gruvbox")
+
+[![Huazhe Lei's GitHub stats](https://github-rm-stats-git-main-leihuazhe.vercel.app/api?username=leihuazhe&show_icons=true&include_all_commits=true&hide_border=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
