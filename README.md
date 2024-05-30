@@ -7,7 +7,7 @@
 
 ## Hey there! 👋 
 
-🧑‍💻 I'm a skilled backend developer with a knack for Java, Scala, and various backend technologies. With a solid foundation in middleware and networking, I've honed my craft as a senior development engineer in the infrastructure department.
+🧑‍💻 I'm a seasoned software engineer with 9 years of experiences, specializing in backend development. I have a knack for Java, Scala, and various backend technologies. With a solid foundation in middleware and networking, I've honed my craft as a senior development engineer in the infrastructure department.
 
 🌏 Currently based in China, I'm on the lookout for exciting opportunities, whether it's through relocation for cross-border positions or remote work arrangements. 
 I'm passionate about backend development and thrive on delivering top-notch solutions that drive business growth.
