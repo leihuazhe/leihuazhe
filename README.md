@@ -19,7 +19,7 @@ Here are some of the open-source projects I've contributed to:
 Feel free to connect with me:
 
 - 📫 Email: leihuazhe@gmail.com
-- 🏠 Home Page: https://www.317318.xyz  
+- 🏠 Home Page: https://hzlei.me 
 
 ---
 
