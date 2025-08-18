@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-China-ff69b4">
+  <img src="https://img.shields.io/badge/Location-Japan-ff69b4">
   <img src="https://img.shields.io/badge/Expertise-Java%20%7C%20Scala%20%7C%20Middleware-blueviolet">
   <img src="https://img.shields.io/badge/Role-Senior%20Developer-yellow">
   <img src="https://img.shields.io/badge/Availability-Relocation%20%7C%20Remote-green">
