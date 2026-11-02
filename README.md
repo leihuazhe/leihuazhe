@@ -16,6 +16,10 @@ If you're in need of a dedicated backend developer to join your team, let's chat
 Here are some of the open-source projects I've contributed to:
 - [Dapeng-SOA](http://github.com/dapeng-soa/dapeng-soa/) - A lightweight, high performance micro-service framework
 
+Best AI Tools Directory:
+
+- [GoodAI.Life](https://goodai.life)
+
 Feel free to connect with me:
 
 - 📫 Email: leihuazhe@gmail.com
